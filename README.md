@@ -1,7 +1,7 @@
 # Signal — Live CRM Notification System
 
 **Repo:** https://github.com/DOOMSDAY1009/Live-CRM-Notifications
-**Live URL:** _add here once deployed — see "Deploying to get a live URL" below_
+**Live URL:** https://live-crm-notifications.onrender.com/
 
 A small CRM (companies, contacts, users, role-based assignments) with a
 real-time, per-user notification system, built for the internship

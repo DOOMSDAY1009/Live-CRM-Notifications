@@ -1,6 +1,6 @@
 # Signal — Live CRM Notification System
 
-**Repo:** https://github.com/DOOMSDAY1009/Live-CRM-Notifications
+**Repo:** https://live-crm-notifications.onrender.com/
 
 **Live URL:** https://live-crm-notifications.onrender.com/
 
